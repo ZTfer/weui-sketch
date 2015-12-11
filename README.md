@@ -2,8 +2,5 @@
 
 weui sketch by ZTfer
 
-微博 
+微博 [@ZTfer](http://weibo.com/wudu2012)
 
-[@ZTfer​]: http://weibo.com/wudu2012	"title"
-
-说明
