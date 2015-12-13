@@ -27,7 +27,7 @@ weui sketch by ZTfer
 
 ### 预览
 ![Aaron Swartz](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/Preview/ActionSheet.png)
-<img src=“https://raw.githubusercontent.com/ZTfer/weui-sketch/master/Preview/ActionSheet.png” style=“width:100px” />
+
 
 ### 更新记录
 
