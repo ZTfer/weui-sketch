@@ -20,13 +20,25 @@ weui sketch by ZTfer
 
 - 下载点击上方 Download ZIP。
 - 意见和反馈 有任何意见与问题可以直接在issues上直接提出，在新浪微博[@ZTfer](http://weibo.com/wudu2012) 和我的邮箱duke207@163.com 也可以直接联系我。
+- 页面尺寸750*1334
 
 ### 使用
 
- 文件已经锁定，建议复制出来一份文件，解锁后使用。
+ -  文件已经锁定，建议复制出来一份文件，解锁后使用。
+- images文件夹内视@0.5x效果图，Preview文件夹内是@2x效果图
 
 ### 预览
-![ActionSheet](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/Preview/ActionSheet.png)
+![Buttons](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Button%400.5x.png)
+![Cell](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Cell%400.5x.png)
+![Toast](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Toast%400.5x.png)
+![Toast_laoding](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Toast_Loading%400.5x.png)
+![Dialog](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Dialog%400.5x.png)
+![Dialog_2](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Dialog_2%400.5x.png)
+![Progress](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Progress%400.5x.png)
+![Message](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Message%400.5x.png)
+![Article](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Article%400.5x.png)
+![ActionSheet](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/ActionSheet%400.5x.png)
+![Icons](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Icons%400.5x.png)
 
 
 ### 更新记录
@@ -35,3 +47,4 @@ weui sketch by ZTfer
 - 2015.12.12增加cell（未完）
 - 2015.12.13完成
 - 微信官方更新后会随时同步更新
+- 2015.12.13说明文档增加预览图
