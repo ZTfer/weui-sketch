@@ -26,7 +26,8 @@ weui sketch by ZTfer
  文件已经锁定，建议复制出来一份文件，解锁后使用。
 
 ### 预览
-![Aaron Swartz](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/Preview/ActionSheet.png =100)
+![Aaron Swartz](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/Preview/ActionSheet.png)
+<img src=“https://raw.githubusercontent.com/ZTfer/weui-sketch/master/Preview/ActionSheet.png” style=“width:100px” />
 
 ### 更新记录
 
