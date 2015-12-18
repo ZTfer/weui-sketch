@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Waiting</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WeUi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-30.000000, -604.000000)" fill="#00ACFF">
+            <g id="Icon_large" sketch:type="MSLayerGroup" transform="translate(30.000000, 354.000000)">
+                <g id="Waiting" transform="translate(0.000000, 250.000000)" sketch:type="MSShapeGroup">
+                    <path d="M95.6521739,41.3043478 L86.9565217,41.3043478 L86.9565217,115.217391 L152.173913,115.217391 L152.173913,106.521739 L95.6521739,106.521739 L95.6521739,41.3043478 L95.6521739,41.3043478 Z M100,200 C155.228475,200 200,155.228475 200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 0,44.771525 0,100 C0,155.228475 44.771525,200 100,200 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

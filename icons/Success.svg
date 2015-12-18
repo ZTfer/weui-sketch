@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Success</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WeUi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-30.000000, -354.000000)" fill="#09BB07">
+            <g id="Icon_large" sketch:type="MSLayerGroup" transform="translate(30.000000, 354.000000)">
+                <g id="Success" sketch:type="MSShapeGroup">
+                    <path d="M100,200 C155.228475,200 200,155.228475 200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 0,44.771525 0,100 C0,155.228475 44.771525,200 100,200 Z M44.0595144,107.533594 C44.1954115,109.863814 77.8700609,141.344141 77.8700609,141.344141 C79.5731436,143.047224 82.3294438,143.04872 84.028555,141.349609 C84.028555,141.349609 149.256766,76.1213976 154.737098,70.6410667 C156.311899,65.2163146 150.876022,64.7876034 149.479366,65.3833348 C148.351263,65.9655045 81.9455128,121.896147 81.9455128,121.896147 C80.0954426,123.444299 77.0819674,123.449666 75.2323528,121.922686 L50.2746604,101.318448 C45.9154614,101.71617 43.9236173,105.203375 44.0595144,107.533594 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

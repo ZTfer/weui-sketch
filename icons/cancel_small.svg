@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>cancel_small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WeUi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-130.000000, -939.000000)">
+            <g id="Icon_small" sketch:type="MSLayerGroup" transform="translate(40.000000, 854.000000)">
+                <g id="cancel_small" transform="translate(91.000000, 86.000000)" sketch:type="MSShapeGroup">
+                    <path d="M22.7071068,19.8786797 L13.5134131,10.684986 C13.1239468,10.2955197 12.4910294,10.2957672 12.1005051,10.6862915 C11.7072581,11.0795385 11.7093963,11.7093963 12.0991995,12.0991995 L21.2928932,21.2928932 L11.3920927,31.1936937 C11.0026265,31.58316 11.002874,32.2160774 11.3933983,32.6066017 C11.7866452,32.9998487 12.416503,32.9977105 12.8063063,32.6079073 L22.7071068,22.7071068 L31.9008005,31.9008005 C32.2902668,32.2902668 32.9231842,32.2900192 33.3137085,31.8994949 C33.7069555,31.506248 33.7048173,30.8763902 33.315014,30.4865869 L24.1213203,21.2928932 L32.6079073,12.8063063 C32.9973735,12.41684 32.997126,11.7839226 32.6066017,11.3933983 C32.2133548,11.0001513 31.583497,11.0022895 31.1936937,11.3920927 L22.7071068,19.8786797 L22.7071068,19.8786797 Z" id="angle45" fill="#F43540"></path>
+                    <path d="M0,22 C0,9.8497355 9.8497355,0 22,0 C34.1502645,0 44,9.8497355 44,22 C44,34.1502645 34.1502645,44 22,44 C9.8497355,44 0,34.1502645 0,22 Z" id="border_o" stroke="#F43530" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
