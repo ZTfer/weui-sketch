@@ -1,6 +1,6 @@
 # weui-sketch
 
-weui sketch by ZTfer
+weui sketch&PSD by ZTfer
 
 微信官方仓库地址：[weiui](https://github.com/weui/weui)
 
@@ -48,3 +48,4 @@ weui sketch by ZTfer
 - 2015.12.13完成
 - 微信官方更新后会随时同步更新
 - 2015.12.13说明文档增加预览图
+- 2015.12.18增加PSD版本
