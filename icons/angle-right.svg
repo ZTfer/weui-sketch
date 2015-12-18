@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="24px" viewBox="0 0 15 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Back Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WeUi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Cell" sketch:type="MSArtboardGroup" transform="translate(-707.000000, -836.000000)" fill="#C8C8CD">
+            <g id="cell/cell-+-jump-copy" sketch:type="MSLayerGroup" transform="translate(1.000000, 756.000000)">
+                <g id="cell-top" transform="translate(0.000000, 48.000000)" sketch:type="MSShapeGroup">
+                    <path d="M706.147902,44 L706,44.1479018 L717.852098,56 L720.222518,53.6295804 L710.592937,44 L720.222518,34.3704196 L717.852098,32 L706,43.8520982 L706.147902,44 Z" id="Back-Arrow" transform="translate(713.111259, 44.000000) scale(-1, 1) translate(-713.111259, -44.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
