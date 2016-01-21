@@ -50,3 +50,4 @@ weui sketch&PSD by ZTfer
 - 2015.12.13说明文档增加预览图
 - 2015.12.18增加PSD版本
 - 2015.12.19PSD版本更新完毕，更新sketch版本中cell页面
+- 2016.01.21 增加图片上传（sketch版）
