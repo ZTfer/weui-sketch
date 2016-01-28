@@ -26,6 +26,7 @@ weui sketch&PSD by ZTfer
 
 - 文件已经锁定，建议复制出来一份文件，解锁后使用。
 - images文件夹内视@0.5x效果图，Preview文件夹内是@2x效果图
+- font文件夹内为苹方&SF字体，如果字体出现问题安装文件夹内字体即可解决，（电脑升级到最新系统后不用担心字体问题☺︎）
 
 ### 预览
 ![Buttons](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Button%400.5x.png)
@@ -52,3 +53,4 @@ weui sketch&PSD by ZTfer
 - 2015.12.19PSD版本更新完毕，更新sketch版本中cell页面
 - 2016.01.21 增加图片上传（sketch版）
 - 2016.01.22 增加@1x文件，增加色板（sketch），增加图片上传（PSD版）
+- 2016.01.28 增加字体文件
