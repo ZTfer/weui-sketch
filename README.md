@@ -40,6 +40,11 @@ weui sketch&PSD by ZTfer
 ![Article](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Article%400.5x.png)
 ![ActionSheet](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/ActionSheet%400.5x.png)
 ![Icons](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Icons%400.5x.png)
+![Panel](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Panel%400.5x.png)
+![Tab](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Tab%400.5x.png)
+![Tab-Navbar](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Tab-Navbar%400.5x.png)
+![Tab-Tabbar](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Tab-Tabbar%400.5x.png)
+![SearchBar](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/SearchBar%400.5x.png)
 
 
 ### 更新记录
