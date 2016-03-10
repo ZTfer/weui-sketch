@@ -53,10 +53,11 @@ weui sketch&PSD by ZTfer
 - 2015.12.19PSD版本更新完毕，更新sketch版本中cell页面
 - 2016.01.21 增加图片上传（sketch版）
 - 2016.01.22 增加@1x文件，增加色板（sketch），增加图片上传（PSD版）
+- 2016.03.10 增加Panel、Tab、SearchBar（Sketch）
 
 
 ### Todo
 
-- Panel
-- Tab
-- Search
+- ~~Panel~~
+- ~~Tab~~
+- ~~Search~~
