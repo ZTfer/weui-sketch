@@ -63,9 +63,6 @@ weui sketch&PSD by ZTfer
 
 ### Todo
 
--[x] Panel
-
 - [x] Panel
-- ~~Panel~~
-- ~~Tab~~
-- ~~Search~~
+- [x] Tab
+- [x] Search
