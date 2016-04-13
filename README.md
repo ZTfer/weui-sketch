@@ -66,3 +66,4 @@ weui sketch&PSD by ZTfer
 - [x] Panel
 - [x] Tab
 - [x] Search
+- [ ] Iconfont 将图标制作为iconfont
