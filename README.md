@@ -29,6 +29,7 @@ weui sketch&PSD by ZTfer
 - font文件夹内为苹方&SF字体，如果字体出现问题安装文件夹内字体即可解决，（电脑升级到最新系统后不用担心字体问题☺︎）
 
 ### 预览
+![色板](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/ColorPalette.png)
 ![Buttons](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Button%400.5x.png)
 ![Cell](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Cell%400.5x.png)
 ![Toast](https://raw.githubusercontent.com/ZTfer/weui-sketch/master/images/Toast%400.5x.png)
@@ -59,6 +60,7 @@ weui sketch&PSD by ZTfer
 - 2016.01.21 增加图片上传（sketch版）
 - 2016.01.22 增加@1x文件，增加色板（sketch），增加图片上传（PSD版）
 - 2016.03.10 增加Panel、Tab、SearchBar（Sketch）
+- 2016.04.13 增加色板（sketch@2x）
 
 
 ### Todo
@@ -66,4 +68,5 @@ weui sketch&PSD by ZTfer
 - [x] Panel
 - [x] Tab
 - [x] Search
+- [x] 增加色板
 - [ ] Iconfont 将图标制作为iconfont
