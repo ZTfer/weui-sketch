@@ -21,6 +21,7 @@ weui sketch&PSD by ZTfer
 - 下载点击上方 Download ZIP。
 - 意见和反馈 有任何意见与问题可以直接在issues上直接提出，在新浪微博[@ZTfer](http://weibo.com/wudu2012) 和我的邮箱duke207@163.com 也可以直接联系我。
 - 页面尺寸750*1334
+- 需要Sketch 3.6.1以上版本
 
 ### 使用
 
