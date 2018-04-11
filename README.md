@@ -6,8 +6,6 @@ weui sketch&PSD by ZTfer
 
 个人微博： [@ZTfer](http://weibo.com/wudu2012)
 
-个人博客： [www.ztfer.com](http://www.ztfer.com)
-
 Dribbble : [ZTfer](https://dribbble.com/ztfer)
 
 邮箱：duke2007@163.com
